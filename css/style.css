@@ -1,0 +1,43 @@
+
+
+
+header {
+    background-color: #FFFFFF;
+    /* F0F8FF */
+    padding: 200px 0;
+    background-image: url("../img/crecer_opaque.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.section-white {
+    background-color: #FFFFFF;
+    padding: 60px 0 40px;
+}
+
+.section-light {
+    background-color: #F0F0F0;
+    padding: 60px 0 40px;
+}
+
+.second-section {
+    padding: 200px 0;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: url("..img/sobre_nosotros/mario_zambrano_opaque.jpeg");
+}
+
+.section-pastor {
+    background-color: #F0F8FF;
+    padding: 200px 0;
+    background-image: url("../img/pastor/pastor_podium_opaque.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.opaque {
+    opacity: 0.8
+}
