@@ -1,6 +1,4 @@
 
-
-
 header {
     background-color: #FFFFFF;
     /* F0F8FF */
@@ -19,6 +17,17 @@ header {
     height: 46px;
     margin-right: 8px;
     width: 48px;
+}
+
+footer {
+    background-color: #2F4F4F;
+    padding: 35px 0;
+}
+
+.footer-logo {
+  height: 22px;
+  margin-bottom: 3px;
+  width: 22px;
 }
 
 .section-white {
@@ -46,19 +55,4 @@ header {
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-}
-
-.opaque {
-    opacity: 0.8
-}
-
-footer {
-    background-color: #2F4F4F;
-    padding: 35px 0;
-}
-
-.footer-logo {
-  height: 22px;
-  margin-bottom: 3px;
-  width: 22px;
 }
