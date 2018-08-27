@@ -1,9 +1,18 @@
 
-header {
+.header-main {
     background-color: #FFFFFF;
     /* F0F8FF */
     padding: 200px 0;
     background-image: url("../img/crecer_opaque.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.header-crece {
+    background-color: #778899;
+    /* F0F8FF */
+    padding: 200px 0;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
